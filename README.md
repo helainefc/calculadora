@@ -1,6 +1,6 @@
 # Calculadora
 
-Calculadora sencilla
+Calculadora sencilla.
 
 ## Table of Contents
 
