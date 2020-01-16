@@ -1,7 +1,6 @@
 # Calculadora
 
-One paragraph that quickly describes what is the purpose of the code in this
-repository.
+Calculadora sencilla
 
 ## Table of Contents
 
